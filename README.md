@@ -1,6 +1,5 @@
 # Arduino Button Library
-https://github.com/JChristensen/JC_Button  
-README file  
+forked from https://github.com/JChristensen/JC_Button 
 
 ## Planned Changes
 Bugfixes, making it bulletproof for noise and add the 0 Latency DB mode used in my Pico SDVX
