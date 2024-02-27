@@ -2,6 +2,9 @@
 https://github.com/JChristensen/JC_Button  
 README file  
 
+## Planned Changes
+Bugfixes, making it bulletproof for noise and add the 0 Latency DB mode used in my Pico SDVX
+
 ## License
 Arduino Button Library Copyright (C) 2018-2019 Jack Christensen GNU GPL v3.0
 
