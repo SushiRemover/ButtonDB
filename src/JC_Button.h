@@ -1,5 +1,6 @@
 // Arduino Button Library
 // https://github.com/SushiRemover/ButtonDB
+// GNU GPL v3.0, https://www.gnu.org/licenses/gpl.html
 
 #ifndef BUTTON_DB_H_INCLUDED
 #define BUTTON_DB_H_INCLUDED
